@@ -1,7 +1,7 @@
 # Blog-Site
-Hey there, this is my FRONT END GRADED PROJECT FOR UPGRAD EVALUATION ! - VARUN BHATNAGAR (1882)
+Hey there, this is my FRONT END GRADED PROJECT FOR UPGRAD EVALUATION ! -Ashish Thakur (1155)
 ### LIVE LINK !!! 
-<a href="https://varunbhatnagar99.github.io/blogger/.">GO ON, VIEW THE LIVE PROJECT :D<a>
+<a href="https://ashish47afk.github.io/blogger/.">GO ON, VIEW THE LIVE PROJECT :D<a>
 ## HOME PAGE
  ![](screenshots/Front.png)
 #### SIGN IN
